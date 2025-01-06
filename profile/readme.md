@@ -1,12 +1,10 @@
 
-# Minetest hosting
+# Luanti hosting
 
 ![](./icon/org.png)
 
-* Main page: https://hosting.minetest.ch
+* Main page: https://hosting.luanti.ch
 * Discord server: https://discord.gg/7bHn5raySn
-
-**NOTE**: currently a work-in-progress, registrations with invites only 
 
 # License
 
