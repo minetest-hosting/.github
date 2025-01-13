@@ -9,4 +9,4 @@
 # License
 
 * Media
-  * "assets/minetest-*.svg" `CC BY-SA 3.0`
+  * "assets/luanti-*.svg" `CC BY-SA 3.0`
